@@ -1,0 +1,29 @@
+.headering {
+
+    height: 800px;
+    width: 100vw;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid black;
+     background-image: url(image/brics.jpg);
+    background-position: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.carrossel {
+    height: 700px;
+    width: 80vw;
+    background-color: black;
+    color: white;
+    font-size: large;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+}

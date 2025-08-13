@@ -1,0 +1,33 @@
+.sc-1 {
+
+    background: var(--main-gray);
+    height: 166px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: var(--main-gray);
+}
+
+.sc-1 h1 {
+
+    margin: 10px 0px 0px 0px;
+    color: #E8B670;
+    font-size: 36px;
+    text-decoration: underline 1px;
+    text-underline-offset: 10px;
+
+
+}
+
+.sc-1 p {
+
+
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Inter' Georgia;
+    font-weight: medium;
+
+}
